@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:iegbbr_proto/menu.dart';
-import 'package:flutter_html/flutter_html.dart';
 import 'package:flutter_widget_from_html/flutter_widget_from_html.dart';
 
 class PartOneFour extends StatefulWidget {
@@ -20,7 +19,7 @@ class _PartOneFourState extends State<PartOneFour> {
   }
 
   _getData() async {
-    String _memberData = await DefaultAssetBundle.of(context).loadString('assets-data/test.json');
+    String _memberData = await DefaultAssetBundle.of(context).loadString('assets-data/memberContent.json');
     return json.decode(_memberData);
   }
 
@@ -66,39 +65,6 @@ class _PartOneFourState extends State<PartOneFour> {
                     ],
                   ),
                   SizedBox(height: 40.0),
-                  Html(
-                    data: tableTitleOne,
-                    padding: EdgeInsets.all(20.0),
-                    backgroundColor: Colors.black12,
-                    defaultTextStyle: TextStyle(
-                      fontSize: 14.0,
-                    ),
-                  ),
-                  Html(
-                    data: tableOne,
-                    padding: EdgeInsets.all(20.0),
-                    backgroundColor: Color.fromRGBO(200, 190, 190, 0.1),
-                    defaultTextStyle: TextStyle(
-                      fontSize: 14.0,
-                    ),
-                  ),
-                  Html(
-                    data: tableTitleTwo,
-                    padding: EdgeInsets.all(20.0),
-                    backgroundColor: Colors.black12,
-                    defaultTextStyle: TextStyle(
-                      fontSize: 14.0,
-                    ),
-                  ),
-                  Html(
-                    data: tableTwo,
-                    padding: EdgeInsets.all(20.0),
-                    backgroundColor: Color.fromRGBO(200, 190, 190, 0.1),
-                    defaultTextStyle: TextStyle(
-                      fontSize: 14.0,
-                    ),
-                  ),
-                  SizedBox(height: 50.0),
                   Container(
                     padding: EdgeInsets.all(17.0),
                     width: double.infinity,
@@ -145,9 +111,4 @@ class _PartOneFourState extends State<PartOneFour> {
     );
   }
 }
-
-//HtmlWidget(
-//myData[0]['en']['aus'][0]['partOne']['tableOne'],
-//webView: true,
-//)
 

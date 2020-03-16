@@ -1,127 +1,104 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_html/flutter_html.dart';
+import 'dart:convert';
+import 'package:flutter_widget_from_html/flutter_widget_from_html.dart';
 
-class Deu extends StatelessWidget {
+class Deu extends StatefulWidget {
+  @override
+  _DeuState createState() => _DeuState();
+}
+
+class _DeuState extends State<Deu> {
+
+  Future memberData;
+
+  @override
+  void initState() {
+    super.initState();
+    memberData = _getData();
+  }
+
+  _getData() async {
+    String _memberData = await DefaultAssetBundle.of(context).loadString('assets-data/memberContent.json');
+    return json.decode(_memberData);
+  }
+
   @override
   Widget build(BuildContext context) {
     return SingleChildScrollView(
       child: Container(
         padding: EdgeInsets.all(10.0),
-        child: Column(
-          children: <Widget>[
-            SizedBox(height: 15.0),
-            Row(
+        child: FutureBuilder(
+          future: memberData,
+          builder: (context, AsyncSnapshot<dynamic> snapshot) {
+            final tableTitleOne = snapshot.hasData ? snapshot.data[0]['en']['deu'][0]['partOneOne']['titleTableOne'] : 'loading...';
+            final tableTitleTwo = snapshot.hasData ? snapshot.data[0]['en']['deu'][0]['partOneOne']['titleTableTwo'] : '';
+            final tableOne = snapshot.hasData ? snapshot.data[0]['en']['deu'][0]['partOneOne']['tableOne'] : '';
+            final tableTwo = snapshot.hasData ? snapshot.data[0]['en']['deu'][0]['partOneOne']['tableTwo'] : '';
+            return Column(
               children: <Widget>[
-                Center(
-                    child: Icon(
-                      Icons.flag,
-                      color: Colors.black54,
-                      size: 120.0,
-                    )
-                ),
-                Flexible(
-                  child: Center(
-                    child: Text(
-                      'Germany',
-                      style: TextStyle(
-                        fontSize: 35.0,
+                SizedBox(height: 15.0),
+                Row(
+                  children: <Widget>[
+                    Center(
+                        child: Icon(
+                          Icons.flag,
+                          color: Colors.black54,
+                          size: 120.0,
+                        )
+                    ),
+                    Flexible(
+                      child: Center(
+                        child: Text(
+                          'Germany',
+                          style: TextStyle(
+                            fontSize: 35.0,
+                          ),
+                        ),
                       ),
                     ),
+                  ],
+                ),
+                SizedBox(height: 40.0),
+                Container(
+                  padding: EdgeInsets.all(17.0),
+                  width: double.infinity,
+                  color: Colors.black12,
+                  child: HtmlWidget(
+                    tableTitleOne,
+                    webView: false,
                   ),
                 ),
+                Container(
+                  padding: EdgeInsets.all(17.0),
+                  width: double.infinity,
+                  color: Color.fromRGBO(200, 190, 190, 0.1),
+                  child: HtmlWidget(
+                    tableOne,
+                    webView: true,
+                  ),
+                ),
+                Container(
+                  padding: EdgeInsets.all(17.0),
+                  width: double.infinity,
+                  color: Colors.black12,
+                  child: HtmlWidget(
+                    tableTitleTwo,
+                    webView: false,
+                  ),
+                ),
+                Container(
+                  padding: EdgeInsets.all(17.0),
+                  width: double.infinity,
+                  color: Color.fromRGBO(200, 190, 190, 0.1),
+                  child: HtmlWidget(
+                    tableTwo,
+                    webView: true,
+                  ),
+                ),
+                SizedBox(height: 50.0),
               ],
-            ),
-            SizedBox(height: 40.0),
-            Html(
-              data: """
-                          <h5>Primary\u00B9 national statutes and regulations, and their legislative authorities, ministries, and departments</h5>
-                       """,
-              padding: EdgeInsets.all(20.0),
-              backgroundColor: Colors.black12,
-              defaultTextStyle: TextStyle(
-                fontSize: 14.0,
-              ),
-            ),
-            Html(
-              data: """
-                          <ul>
-                            <li>
-                              <a href="">Act on Safety and Health at Work</a> : <a href="">Federal Ministry of Labour and Social Affairs</a>
-                            </li>
-                            <li>
-                              <a href="">Ordinance on Safety and Health Protection at Workplaces Involving Biological Agents</a> (Biological Agents Ordinance – BioStoffV): Federal 
-                              Ministry of Labour and Social Affairs
-                            </li>
-                            <li>
-                              <a href="">Genetic Engineering Act</a> and the Ordinance on Safety of Genetic Engineering <a href="">Federal Ministry of Food and Agriculture</a>
-                            </li>
-                            <li>
-                              <a href="">Law for the Prevention of Infection and Protection Against Infection Act</a> (IFSG): <a href="">Federal Ministry of Health</a>
-                            </li>
-                            <li>
-                              <a href="">Hazardous Substances Ordinance</a> (GefStoffV)
-                            </li>
-                            <li>
-                              <a href="">War Weapons Control Act</a> : <a href="">Federal Foreign Office</a>
-                            </li>
-                            <li>
-                              <a href="">Ordinance on the Transport of Dangerous Goods by Road, Rail and Inland Waterways</a> : <a href="">Federal Ministry of Transport and Digital 
-                              Infrastructure</a>
-                            </li>
-                          </ul>
-                          <p> </p>
-                       """,
-              padding: EdgeInsets.all(20.0),
-              backgroundColor: Color.fromRGBO(200, 190, 190, 0.1),
-              defaultTextStyle: TextStyle(
-                fontSize: 14.0,
-              ),
-            ),
-            Html(
-              data: """
-                          <h5>Complementary and other statutes and regulations, and additional authorities, ministries, and departments (i.e. national, subnational, non-governmental, etc.)</h5>
-                       """,
-              padding: EdgeInsets.all(20.0),
-              backgroundColor: Colors.black12,
-              defaultTextStyle: TextStyle(
-                fontSize: 14.0,
-              ),
-            ),
-            Html(
-              data: """
-                          <ul>
-                            <li>
-                              <a href="">Committee on Biological Agents</a> organized by the Federal Institute for Occupational Safety and Health, acts as a national 
-                              commission; advises the Federal Ministry of Labour and Social Affairs; publishes <a href="">Technical Rules for Biological Agents</a>
-                              based on the BioStoffV
-                            </li>
-                            <li>
-                              Central Committee on Biological Safety (ZKBS) organized by the Federal Office of Consumer Protection and Food Safety, acts as a national 
-                              commission; advises the Federal Ministry of Food and Agriculture on genetically modified organisms
-                            </li>
-                            <li>
-                              <a href="">Robert Koch Institute</a> – the national public health institute that advises on health-related questions of biosafety / biosecurity
-                            </li>
-                            <li>
-                              <a href="">Centre for Biological Threat and Special Pathogens</a>
-                            </li>
-                            <li>
-                              <a href="">The Federal Institute for Risk Assessment</a>
-                            </li>
-                            <li>
-                              Animal Pathogen Ordinance : Federal Ministry of Food and Agriculture
-                            </li>
-                          </ul>
-                          <p> </p>
-                       """,
-              padding: EdgeInsets.all(20.0),
-              backgroundColor: Color.fromRGBO(200, 190, 190, 0.1),
-              defaultTextStyle: TextStyle(
-                fontSize: 14.0,
-              ),
-            ),
-            SizedBox(height: 55.0),
-          ],
+            );
+          },
         ),
       ),
     );
