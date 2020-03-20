@@ -1,24 +1,101 @@
 [
   {
     "en" : {
+
+      "tableTitles": [
+        {
+          "partOne": {
+            "partOneOne": {
+              "tableTitleOne": "<h3>Primary\u00B9 national statutes and regulations, and their legislative authorities, ministries, and departments</h3>",
+              "tableTitleTwo": "<h3>Complementary and other statutes and regulations, and additional authorities, ministries, and departments (i.e. national, subnational, non-governmental, etc.)</h3>"
+            },
+            "partOneTwo": {
+              "tableTitleOne": "<h3>Biosafety risk group and biosafety level designations</h3>",
+              "tableTitleTwo": "<h3>Definition of Biosafety</h3>",
+              "tableTitleThree": "<h3>Definition of Biosecurity</h3>",
+              "tableTitleFour": "<h3>Definition(s) of Biological Agent / Microorganism / Pathogen</h3>",
+              "tableTitleFive": "<h3>Definition of Toxin</h3>"
+            },
+            "partOneThree": {
+              "tableTitleOne": "<h3>What is the purpose/scope of the legislation?</h3>",
+              "tableTitleTwo": "<h3>What activities are covered?</h3>"
+            },
+            "partOneFour": {
+              "tableTitleOne": "<h3>Are the regulated pathogens and toxins defined by a list?</h3>",
+              "tableTitleTwo": "<h3>Details on updating the list</h3>"
+            },
+            "partOneFive": {
+              "tableHeaderOne": "<h3>Standards and non-legally binding policy instruments</h3>"
+            }
+          }
+        },
+        {
+          "partTwo": {
+            "partTwoOne": {
+              "tableTitleOne": "<h3>Regulatory authorization issuance processes and permitted activities</h3>",
+              "tableTitleTwo": "<h3>Requirements / Conditions / Obligations for regulatory approvals</h3>"
+            },
+            "partTwoTwo": {
+              "tableTitleOne": "<h3>Meet the United Nations Model Regulations?\u00B9</h3>",
+              "tableTitleTwo": "<h3>Import</h3>",
+              "tableTitleThree": "<h3>Export</h3>",
+              "tableTitleFour": "<h3>Internal transfer/shipment(s)</h3>"
+            },
+            "partTwoThree": {
+              "tableTitleOne": "<h3>Administrative handling of notifications / reporting</h3>",
+              "tableTitleTwo": "<h3>Available reports (i.e. annual, incident related, etc.)</h3>"
+            }
+          }
+        },
+        {
+          "partThree": {
+            "partThreeOne": {
+              "tableTitleOne": "<h3>Risk assessment requirements and details</h3>",
+              "tableTitleTwo": "<h3>Available reports</h3>"
+            }
+          }
+        },
+        {
+          "partFour": {
+            "partFourOne": {
+              "tableTitleOne": "<h3>Compliance promotion</h3>",
+              "tableTitleTwo": "<h3>Compliance monitoring and verification</h3>",
+              "tableTitleThree": "<h3>Regulatory enforcement / penalty</h3>"
+            },
+            "partFourTwo": {
+              "tableTitleOne": "<h3>Inspection scheme structure</h3>",
+              "tableTitleTwo": "<h3>Available inspection reports</h3>"
+            }
+          }
+        },
+        {
+          "partFive": {
+            "partFiveOne": {
+              "tableTitleOne": "<h3>Duties/ Responsibilities and qualifications required of the biosafety or responsible officer</h3>",
+              "tableTitleTwo": "<h3>Are there security requirements for personnel?</h3>"
+            },
+            "partFiveTwo": {
+              "tableTitleOne": "<h3>Non-Security personnel requirements</h3>",
+              "tableTitleTwo": "<h3>Training requirements and available resources for personnel</h3>"
+            },
+            "partFiveThree": {
+              "tableTitleOne": "<h3>Outreach and awareness initiatives (not otherwise captured above)</h3>"
+            }
+          }
+        }
+      ],
+
       "aus" : [
         {
           "partOneOne" : {
-            "titleTableOne" : "<h3>Primary\u00B9 national statutes and regulations, and their legislative authorities, ministries, and departments</h3>",
-            "titleTableTwo" : "<h3>Complementary and other statutes and regulations, and additional authorities, ministries, and departments (i.e. national, subnational, non-governmental, etc.)</h3>",
             "tableOne" : "<ul><li><a href=\"https://www.legislation.gov.au/Details/C2016C00847/\">National Health Security Act 2007</a><a href=\"http://www.health.gov.au/\">Department of Health</a></li><li><a href=\"https://www.legislation.gov.au/Details/F2013C00171\">National Health Security Regulations 2008</a> : Department of Health</li><li><a href=\"http://www.health.gov.au/ssba\">Security Sensitive Biological Agent Standards</a> : Department of Health</li><li><a href=\"https://www.legislation.gov.au/Details/C2017C00148\">Biosecurity Act 2015</a> : <a href=\"http://www.agriculture.gov.au/\">Department of Agriculture and Water Resources</a> (human health aspects are the responsibility of the Department of Health)</li></ul>",
             "tableTwo" : "<ul><li><a href=\"http://dfat.gov.au/international-relations/security/non-proliferation-disarmament-arms-control/biological-weapons/pages/biological-weapons-convention-bwc.aspx%2520\">Department of Foreign Affairs and Trade</a> deals with upholding and implementing the Biological and Toxin Weapons Convention, along with other export control programs</li><li><a href=\"http://www.defence.gov.au/ExportControls/ICT.asp\">Department of Defence</a> also plays a role in Australian export controls and information and communications technology, which can touch upon and overlap with biosafety and biosecurity efforts</li><li><a href=\"https://www.homeaffairs.gov.au/\">Department of Home Affairs</a> helps support the Biosecurity Act 2015 by dealing with imports made from or including animal products</li><li><a href=\"http://www5.austlii.edu.au/au/legis/cth/consol_act/whasa2011218/\">Work Health and Safety Act 2011</a> and <a href=\"http://www5.austlii.edu.au/au/legis/cth/consol_reg/whasr2011327/\">Work Health and Safety Regulations 2011</a> : legislation that addresses biosafety</li><li><a href=\"https://www.legislation.gov.au/Series/C2004A00762\">Gene Technology Act 2000</a> : <a href=\"http://www.ogtr.gov.au/\">Office of the Gene Technology Regulator</a> (OGTR)</li><li><a href=\"https://www.legislation.sa.gov.au/LZ/C/R/GENE%2520TECHNOLOGY%2520REGULATIONS%25202002/CURRENT/2002.8.UN.PDF\">Gene Technology Regulations</a></li><li><a href=\"https://www.ntc.gov.au/heavy-vehicles/safety/australian-dangerous-goods-code/%2520\">Australian Dangerous Goods Code for Road and Rail</a></li><li><a href=\"https://infostore.saiglobal.com/en-us/Standards/AS-NZS-2243-3-2010-1430097/\">SAI Global</a> (Standards Australia)</li><li>Council of Australian Governments <a href=\"https://www.coag.gov.au/content/intergovernmental-agreement-biosecurity\">Intergovernmental Agreement on Biosecurity</a>; <a href=\"http://www.coag.gov.au/about-coag/agreements/national-environmental-biosecurity-response-agreement-nebra\">National Environmental Biosecurity Response Agreement</a></li></ul>"
           }
         },
         {
           "partOneTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
-            "titleTableFive" : "TITLE FIVE",
-            "tableOne" : "This is PART 1.2 --- TABLE ONE",
-            "tableTwo" : "This is PART 1.2 --- TABLE TWO",
+            "tableOne" : "<p>This is PART 1.2 --- TABLE ONE</p>",
+            "tableTwo" : "<p>This is PART 1.2 --- TABLE TWO</p>",
             "tableThree" : "This is PART 1.2 --- TABLE THREE",
             "tableFour" : "This is PART 1.2 --- TABLE FOUR",
             "tableFive" : "This is PART 1.2 --- TABLE FIVE"
@@ -26,40 +103,29 @@
         },
         {
           "partOneThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.3 --- TABLE ONE",
             "tableTwo" : "This is PART 1.3 --- TABLE TWO"
           }
         },
         {
           "partOneFour" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.4 --- TABLE ONE",
             "tableTwo" : "This is PART 1.4 --- TABLE TWO"
           }
         },
         {
           "partOneFive" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 1.5 --- TABLE ONE"
           }
         },
         {
           "partTwoOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO"
           }
         },
         {
           "partTwoTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO",
             "tableThree" : "This is PART 2.1 --- TABLE THREE",
@@ -68,25 +134,18 @@
         },
         {
           "partTwoThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.3 --- TABLE ONE",
             "tableTwo" : "This is PART 2.3 --- TABLE TWO"
           }
         },
         {
           "partThreeOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 3.1 --- TABLE ONE",
             "tableTwo" : "This is PART 3.1 --- TABLE TWO"
           }
         },
         {
           "partFourOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
             "tableOne" : "This is PART 4.1 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO",
             "tableThree" : "This is PART 4.1 --- TABLE THREE"
@@ -94,31 +153,24 @@
         },
         {
           "partFourTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 4.2 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO"
           }
         },
         {
           "partFiveOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.1 --- TABLE ONE",
             "tableTwo" : "This is PART 5.1 --- TABLE TWO"
           }
         },
         {
           "partFiveTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.2 --- TABLE ONE",
             "tableTwo" : "This is PART 5.2 --- TABLE TWO"
           }
         },
         {
           "partFiveThree" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 5.3 --- TABLE ONE"
           }
         }
@@ -126,19 +178,12 @@
       "can" : [
         {
           "partOneOne" : {
-            "titleTableOne" : "<h3>Primary\u00B9 national statutes and regulations, and their legislative authorities, ministries, and departments</h3>",
-            "titleTableTwo" : "<h3>Complementary and other statutes and regulations, and additional authorities, ministries, and departments (i.e. national, subnational, non-governmental, etc.)</h3>",
             "tableOne" : "<ul><li><a href=\"http://laws.justice.gc.ca/eng/acts/H-5.67/FullText.html\"><em>Human Pathogens and Toxins Act</em></a> : Public Health Agency of Canada</li><li><a href=\"http://laws.justice.gc.ca/eng/regulations/SOR-2015-44/FullText.html\"><em>Human Pathogens and Toxins Regulations</em></a> : Public Health Agency of Canada</li><li><a href=\"http://laws-lois.justice.gc.ca/eng/acts/H-3.3/FullText.html\"><em>Health of Animals Act</em></a> : Canadian Food Inspection Agency and Public Health Agency of Canada</li><li><a href=\"http://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._296/FullText.html\"><em>Health of Animals Regulations</em></a> : Canadian Food Inspection Agency and Public Health Agency of Canada</li></ul>",
             "tableTwo" : "<ul><li><a href=\"http://laws-lois.justice.gc.ca/eng/acts/E-19/\"><em>Export and Import Permits Act</em></a> : Global Affairs Canada administers export controls for strategic goods and technology</li><li><a href=\"http://laws-lois.justice.gc.ca/eng/acts/F-27/\"><em>Food and Drugs Act</em></a> : Health Canada conducts human health risk assessments for new organisms in regulated products (e.g., novel foods, human biologics, and food additives) and recommends risk management measures</li><li><a href=\"https://www.tc.gc.ca/eng/acts-regulations/acts-1992c34.htm\"><em>Transportation of Dangerous Goods Act, 1992</em></a> : Transport Canada promotes public safety in the transportation of dangerous goods and covers, among other things, safety and security requirements, emergency response plans, containment and shipping rules and standards, inspection and monitoring, and certification</li><li><a href=\"http://laws-lois.justice.gc.ca/eng/acts/c-15.31/page-1.html\"><em>Canadian Environmental Protection Act</em></a> : Environment and Climate Change Canada is responsible for the assessment of new varieties of microorganisms and other organisms prior to their introduction into the environment, so as to protect both human health and the environment from any potentially adverse effects</li><li><a href=\"https://laws-lois.justice.gc.ca/eng/acts/L-2/page-22.html\"><em>Canada Labour Code</em></a> : Employment and Social Development Canada administers the Occupational Health and Safety requirements to prevent accidents and injury to health arising out of, linked with or occurring in the course of employment</li></ul><p>The Canada Border Services Agency provides integrated border services that support national security and public safety priorities and, at the same time, facilitate the free flow of persons and goods. Under the <a href=\"http://laws-lois.justice.gc.ca/eng/acts/C-52.6/index.html\"><em>Customs Act</em></a>, Canada Border Services Agency customs officers have the authority to detain and examine any goods at the Canadian border. Canada Border Services Agency provides administrative support at the Canadian points of entry for imported and exported pathogens and toxins under the authorities of the Public Health Agency of Canada, Canadian Food Inspection Agency and Transport Canada.</p><p>For <em>Human Pathogens and Toxins Act</em>-related biosafety and biosecurity, the <a href=\"http://www.phac-aspc.gc.ca/about_apropos/eab-oce/alpha/achpt-ccapht-eng.php\">Advisory Committee on Human Pathogens and Toxins</a> has been established as required by the Public Health Agency of Canada and in order to advise the Minister, amongst other advisory roles and duties.</p><p>In general the provinces do not have oversight programs related to biosafety and biosecurity for research and development purposes. Many if not all of them however, have regulations and frameworks to address the disposal of biological or bio-medical (hazardous) waste, as well as occupational health and safety provisions, of which biological agents and microorganisms are often a specified potential hazard. It should be noted that while Ontario has a ban on the manufacture, supply, and distribution of new biological or chemical agents, they exempt said agents if being handled for research and development.</p>"
           }
         },
         {
           "partOneTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
-            "titleTableFive" : "TITLE FIVE",
             "tableOne" : "This is PART 1.2 --- TABLE ONE",
             "tableTwo" : "This is PART 1.2 --- TABLE TWO",
             "tableThree" : "This is PART 1.2 --- TABLE THREE",
@@ -148,40 +193,29 @@
         },
         {
           "partOneThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.3 --- TABLE ONE",
             "tableTwo" : "This is PART 1.3 --- TABLE TWO"
           }
         },
         {
           "partOneFour" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.4 --- TABLE ONE",
             "tableTwo" : "This is PART 1.4 --- TABLE TWO"
           }
         },
         {
           "partOneFive" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 1.5 --- TABLE ONE"
           }
         },
         {
           "partTwoOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO"
           }
         },
         {
           "partTwoTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO",
             "tableThree" : "This is PART 2.1 --- TABLE THREE",
@@ -190,25 +224,18 @@
         },
         {
           "partTwoThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.3 --- TABLE ONE",
             "tableTwo" : "This is PART 2.3 --- TABLE TWO"
           }
         },
         {
           "partThreeOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 3.1 --- TABLE ONE",
             "tableTwo" : "This is PART 3.1 --- TABLE TWO"
           }
         },
         {
           "partFourOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
             "tableOne" : "This is PART 4.1 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO",
             "tableThree" : "This is PART 4.1 --- TABLE THREE"
@@ -216,31 +243,24 @@
         },
         {
           "partFourTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 4.2 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO"
           }
         },
         {
           "partFiveOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.1 --- TABLE ONE",
             "tableTwo" : "This is PART 5.1 --- TABLE TWO"
           }
         },
         {
           "partFiveTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.2 --- TABLE ONE",
             "tableTwo" : "This is PART 5.2 --- TABLE TWO"
           }
         },
         {
           "partFiveThree" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 5.3 --- TABLE ONE"
           }
         }
@@ -248,19 +268,12 @@
       "che" : [
         {
           "partOneOne" : {
-            "titleTableOne" : "<h3>Primary\u00B9 national statutes and regulations, and their legislative authorities, ministries, and departments</h3>",
-            "titleTableTwo" : "<h3>Complementary and other statutes and regulations, and additional authorities, ministries, and departments (i.e. national, subnational, non-governmental, etc.)</h3>",
             "tableOne" : "<ul><li><em>CC 814.912</em> <a href=\"https://www.admin.ch/opc/en/classified-compilation/20100803/201506010000/814.912.pdf\">Ordinance on Handling Organisms in Contained Systems</a> (ContainO)</li><li><em>CC 814.01 Federal Act on the Protection of the Environment</em></li><li><em>814.91</em> <a href=\"https://www.admin.ch/opc/en/classified-compilation/19996136/index.html\"><em>Federal Act on Non-Human Gene Technology</em></a></li><li><em>RS 818.101</em> <a href=\"https://www.admin.ch/opc/fr/classified-compilation/20071012/index.html\">Federal Law on the Fight Against Communicable Diseases in Humans</a></li><li><em>RS 832.321</em> <a href=\"https://www.admin.ch/opc/fr/classified-compilation/19994946/index.html\"><em>Ordinance on the Protection of Workers Against Risks related to Microorganisms</em></a></li><li><em>RS 822.111.52</em> <a href=\"https://www.admin.ch/opc/fr/classified-compilation/20002241/index.html\"><em>Ordinance on Maternity Protection</em></a> <em>concerning Dangerous/Strenuous Activities</em></li><li><em>RS 822.115.2</em> <a href=\"https://www.admin.ch/opc/fr/classified-compilation/20072247/index.html\"><em>Ordinance on Dangerous Work for Youth</em></a></li><li><em>CC 814.012</em> <a href=\"https://www.admin.ch/opc/en/classified-compilation/19910033/index.html\"><em>Ordinance on Protection against Major Accidents</em></a></li><li><em>RS 514.51</em> <a href=\"https://www.admin.ch/opc/en/classified-compilation/19960753/index.html\"><em>Federal Act on War Material</em></a></li></ul><p>The Ordinances are generally implemented by the Federal Office for the Environment and the Federal Office of Public Health. Inspections are carried out by the cantons. Other involved authorities/agencies are:</p><ul><li><a href=\"https://www.bafu.admin.ch/bafu/en/home/topics/biotechnology/info-specialists/activities-in-contained-use/federal-coordination-centre-for-biotechnology.html\">Federal Coordination Centre for Biotechnology</a></li><li><a href=\"https://www.blw.admin.ch/blw/en/home.html\">Federal Office for Agriculture</a></li><li><a href=\"https://www.blv.admin.ch/blv/en/home.html\">Federal Food Safety and Veterinary Office</a></li><li><a href=\"https://www.seco.admin.ch/seco/en/home.html\">State Secretariat for Economic Affairs</a></li></ul>",
             "tableTwo" : "<ul><li><a href=\"http://www.efbs.admin.ch/en/homepage/\">Swiss Expert Committee for Biosafety</a> advises the Federal Council and the federal agencies on the drafting of laws, ordinances, guidelines and recommendations; advises the federal and cantonal authorities on regulatory enforcement; issues statements on licence applications and publishes recommendations on safety measures</li><li><a href=\"https://www.suva.ch/en/the-suva/about-us/suva/\">Swiss National Accident Insurance Fund</a> is a part of the social security system that provides compulsory insurance for employees and the unemployed against accidents and occupational diseases</li><li><a href=\"https://www.labor-spiez.ch/en/lab/\">The Spiez Laboratory</a> is a division of the Federal Office for Civil Protection that provides services relating to arms control, protection measures, health and incident management for international organisations, authorities and the general population</li><li><a href=\"http://www.ekah.admin.ch/en/homepage/\">Federal Ethics Committee on Non-human Gene Technology</a> advises the federal authorities from an ethical perspective, as an independent expert committee, in the field of non-human biotechnology and gene technology</li><li><a href=\"https://www.seco.admin.ch/seco/en/home.html\">State Secretariat for Economic Affairs is responsible for labour market policy including working conditions and employee protection</a></li><li><a href=\"https://www.vtg.admin.ch/en/home.html\">Swiss Armed Forces (Military Security)</a></li><li>Intercantonal experience exchange group of services involved in bio and gene technology (ERFA BIO)</li></ul><p><strong>Duties of the cantons:</strong></p><p>The cantons monitor compliance with the duty of care, the containment obligation and the safety measures.</p>"
           }
         },
         {
           "partOneTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
-            "titleTableFive" : "TITLE FIVE",
             "tableOne" : "This is PART 1.2 --- TABLE ONE",
             "tableTwo" : "This is PART 1.2 --- TABLE TWO",
             "tableThree" : "This is PART 1.2 --- TABLE THREE",
@@ -270,40 +283,29 @@
         },
         {
           "partOneThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.3 --- TABLE ONE",
             "tableTwo" : "This is PART 1.3 --- TABLE TWO"
           }
         },
         {
           "partOneFour" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.4 --- TABLE ONE",
             "tableTwo" : "This is PART 1.4 --- TABLE TWO"
           }
         },
         {
           "partOneFive" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 1.5 --- TABLE ONE"
           }
         },
         {
           "partTwoOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO"
           }
         },
         {
           "partTwoTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO",
             "tableThree" : "This is PART 2.1 --- TABLE THREE",
@@ -312,25 +314,18 @@
         },
         {
           "partTwoThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.3 --- TABLE ONE",
             "tableTwo" : "This is PART 2.3 --- TABLE TWO"
           }
         },
         {
           "partThreeOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 3.1 --- TABLE ONE",
             "tableTwo" : "This is PART 3.1 --- TABLE TWO"
           }
         },
         {
           "partFourOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
             "tableOne" : "This is PART 4.1 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO",
             "tableThree" : "This is PART 4.1 --- TABLE THREE"
@@ -338,31 +333,24 @@
         },
         {
           "partFourTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 4.2 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO"
           }
         },
         {
           "partFiveOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.1 --- TABLE ONE",
             "tableTwo" : "This is PART 5.1 --- TABLE TWO"
           }
         },
         {
           "partFiveTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.2 --- TABLE ONE",
             "tableTwo" : "This is PART 5.2 --- TABLE TWO"
           }
         },
         {
           "partFiveThree" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 5.3 --- TABLE ONE"
           }
         }
@@ -370,19 +358,12 @@
       "deu" : [
         {
           "partOneOne" : {
-            "titleTableOne" : "<h3>Primary\u00B9 national statutes and regulations, and their legislative authorities, ministries, and departments</h3>",
-            "titleTableTwo" : "<h3>Complementary and other statutes and regulations, and additional authorities, ministries, and departments (i.e. national, subnational, non-governmental, etc.)</h3>",
             "tableOne" : "<ul><li><a href=\"http://www.bmas.de/SharedDocs/Downloads/DE/PDF-Gesetze/arbschg-en.pdf?__blob=publicationFile\">Act on Safety and Health at Work</a> : <a href=\"http://www.bmas.de/EN/Home/home.html\">Federal Ministry of Labour and Social Affairs</a></li><li><a href=\"http://www.gesetze-im-internet.de/englisch_biostoffv/\"><em>Ordinance on Safety and Health Protection at Workplaces Involving Biological Agents</em></a> (Biological Agents Ordinance – BioStoffV): Federal Ministry of Labour and Social Affairs</li><li><em>Genetic Engineering Act</em> and the <em>Ordinance on Safety of Genetic Engineering</em>: <a href=\"https://www.bmel.de/EN/Homepage/homepage_node.html\">Federal Ministry of Food and Agriculture</a></li><li><a href=\"https://www.rki.de/EN/Content/infections/inf_dis_down.pdf?__blob=publicationFile\"><em>Law for the Prevention of Infection and Protection Against Infection Act</em></a> (IFSG): <a href=\"https://www.bundesgesundheitsministerium.de/en/?L=0\">Federal Ministry of Health</a></li><li><a href=\"https://www.baua.de/EN/Topics/Work-design/Hazardous-substances/Working-with-hazardous-substances/Hazardous-substances-ordinance/Hazardous-substances-ordinance.html\"><em>Hazardous Substances Ordinance</em></a> (GefStoffV)</li><li><a href=\"https://germanlawarchive.iuscomp.org/?p=741\"><em>War Weapons Control Act</em></a> : <a href=\"https://www.auswaertiges-amt.de/en\">Federal Foreign Office</a></li><li><a href=\"https://www.unece.org/fileadmin/DAM/trans/danger/publi/adr/1.8/Germany_1-4-1-3.pdf\"><em>Ordinance on the Transport of Dangerous Goods by Road, Rail and Inland Waterways</em></a> : <a href=\"https://www.bmvi.de/EN/Home/home.html\">Federal Ministry of Transport and Digital Infrastructure</a></li></ul>",
             "tableTwo" : "<ul><li><a href=\"https://www.baua.de/EN/Tasks/Committee-administration/ABAS/ABAS_node.html\">Committee on Biological Agents</a> organized by the Federal Institute for Occupational Safety and Health, acts as a national commission; advises the Federal Ministry of Labour and Social Affairs; publishes <a href=\"https://www.baua.de/EN/Service/Legislative-texts-and-technical-rules/Rules/TRBA/TRBA.html\">Technical Rules for Biological Agents</a> based on the BioStoffV</li><li>Central Committee on Biological Safety (ZKBS) organized by the Federal Office of Consumer Protection and Food Safety, acts as a national commission; advises the Federal Ministry of Food and Agriculture on genetically modified organisms</li><li><a href=\"https://www.rki.de/EN/Content/Institute/institute_node.html\">Robert Koch Institute</a> – the national public health institute that advises on health-related questions of biosafety / biosecurity</li><li><a href=\"http://www.rki.de/EN/Content/Institute/DepartmentsUnits/CenterBioSafety/CenterBioSafety_node.html\">Centre for Biological Threat and Special Pathogens</a></li><li><a href=\"http://www.bfr.bund.de/en/transport_of_dangerous_goods-6970.html\">The Federal Institute for Risk Assessment</a></li><li><em>Animal Pathogen Ordinance</em> : Federal Ministry of Food and Agriculture</li></ul>"
           }
         },
         {
           "partOneTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
-            "titleTableFive" : "TITLE FIVE",
             "tableOne" : "This is PART 1.2 --- TABLE ONE",
             "tableTwo" : "This is PART 1.2 --- TABLE TWO",
             "tableThree" : "This is PART 1.2 --- TABLE THREE",
@@ -392,40 +373,29 @@
         },
         {
           "partOneThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.3 --- TABLE ONE",
             "tableTwo" : "This is PART 1.3 --- TABLE TWO"
           }
         },
         {
           "partOneFour" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.4 --- TABLE ONE",
             "tableTwo" : "This is PART 1.4 --- TABLE TWO"
           }
         },
         {
           "partOneFive" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 1.5 --- TABLE ONE"
           }
         },
         {
           "partTwoOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO"
           }
         },
         {
           "partTwoTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO",
             "tableThree" : "This is PART 2.1 --- TABLE THREE",
@@ -434,25 +404,18 @@
         },
         {
           "partTwoThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.3 --- TABLE ONE",
             "tableTwo" : "This is PART 2.3 --- TABLE TWO"
           }
         },
         {
           "partThreeOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 3.1 --- TABLE ONE",
             "tableTwo" : "This is PART 3.1 --- TABLE TWO"
           }
         },
         {
           "partFourOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
             "tableOne" : "This is PART 4.1 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO",
             "tableThree" : "This is PART 4.1 --- TABLE THREE"
@@ -460,31 +423,24 @@
         },
         {
           "partFourTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 4.2 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO"
           }
         },
         {
           "partFiveOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.1 --- TABLE ONE",
             "tableTwo" : "This is PART 5.1 --- TABLE TWO"
           }
         },
         {
           "partFiveTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.2 --- TABLE ONE",
             "tableTwo" : "This is PART 5.2 --- TABLE TWO"
           }
         },
         {
           "partFiveThree" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 5.3 --- TABLE ONE"
           }
         }
@@ -492,19 +448,12 @@
       "dnk" : [
         {
           "partOneOne" : {
-            "titleTableOne" : "<h3>Primary\u00B9 national statutes and regulations, and their legislative authorities, ministries, and departments</h3>",
-            "titleTableTwo" : "<h3>Complementary and other statutes and regulations, and additional authorities, ministries, and departments (i.e. national, subnational, non-governmental, etc.)</h3>",
             "tableOne" : "<ul><li><a href=\"https://www.biosikring.dk/fileadmin/user_upload/PDF_FILER/Biosikringsdokumenter/ACTNo474of17_June2008.pdf\"><em>Act on securing specific biological substances, delivery systems and related materials</em></a> : Centre for Biosecurity and Biopreparedness, Statens Serum Institut; Ministry of Health</li><li><a href=\"https://www.biosikring.dk/fileadmin/user_upload/PDF_FILER/Biosikringsdokumenter/en.pdf\">Executive Order on securing specific biological substances, delivery systems and related materials</a> : Centre for Biosecurity and Biopreparedness; Ministry of Health</li><li><a href=\"https://www.biosecurity.dk/491/\"><em>Act on Control of Animal Pathogens</em></a> : Centre for Biosecurity and Biopreparedness; Ministry of Environment and Food of Denmark</li><li><a href=\"https://www.biosikring.dk/fileadmin/user_upload/PDF_FILER/Biosikringsdokumenter/UK_version_dyrepatogenbekendtgorelse.pdf\">Order on the control of certain substances that can be used in connection with biological attacks on animals</a> : In terms of control of animal pathogens, Centre for Biosecurity and Biopreparedness; Ministry of Environment and Food of Denmark</li><li>Act on revision <a href=\"https://www.biosikring.dk/no_cache/nyhed/article/445/87/\">of health regulation concerning measures of control in relation to poliovirus and other biological substances</a> (in Danish): Centre for Biosecurity and Biopreparedness, Statens Serum Institut; Ministry of Health</li></ul><p>Biosafety is addressed by the <a href=\"https://amid.dk/en\">Danish Working Environment Authority</a>. At minimum, the European Union Directives related to biosafety and biosecurity are implemented at a national level.</p>",
             "tableTwo" : "<ul><li><em>Act No. 356 of 6 June 1991 on the Environment and Genetic Engineering</em> (Latest amended by Act No. 384 of 6 June 2002)</li><li>See Consolidated Act No. 981 of 3 December 2002</li><li>Statutory Order on deliberate release into the environment of genetically modified organisms (No. 831 of 3 October 2002) Annex</li><li>Statutory Order on the approval of production using genetically modified micro-organisms (No. 830 of 3 October 2002)</li><li>Statutory Order on the approval of production using genetically modified plants and animals (No. 829 of 3 October 2002)</li><li>Statutory Order on transport and import of genetically modified organisms (No. 380 of 17 May 2000)</li><li>Statutory Order on the approval of display of genetically modified organisms and dissemination of information involving genetically modified organisms (No. 370 of 17 May 2000)</li><li>Statutory Order on fees according to <em>Act on the Environment and Genetic Engineering</em> (No. 687 of 11 November 1991 – No English version)</li><li>Statutory Order on Genetic Engineering and the Working Environment (No. 642 of 28 June 2001) (Issued by the Danish Working Environment Authority)</li></ul>"
           }
         },
         {
           "partOneTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
-            "titleTableFive" : "TITLE FIVE",
             "tableOne" : "This is PART 1.2 --- TABLE ONE",
             "tableTwo" : "This is PART 1.2 --- TABLE TWO",
             "tableThree" : "This is PART 1.2 --- TABLE THREE",
@@ -514,40 +463,29 @@
         },
         {
           "partOneThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.3 --- TABLE ONE",
             "tableTwo" : "This is PART 1.3 --- TABLE TWO"
           }
         },
         {
           "partOneFour" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.4 --- TABLE ONE",
             "tableTwo" : "This is PART 1.4 --- TABLE TWO"
           }
         },
         {
           "partOneFive" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 1.5 --- TABLE ONE"
           }
         },
         {
           "partTwoOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO"
           }
         },
         {
           "partTwoTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO",
             "tableThree" : "This is PART 2.1 --- TABLE THREE",
@@ -556,25 +494,18 @@
         },
         {
           "partTwoThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.3 --- TABLE ONE",
             "tableTwo" : "This is PART 2.3 --- TABLE TWO"
           }
         },
         {
           "partThreeOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 3.1 --- TABLE ONE",
             "tableTwo" : "This is PART 3.1 --- TABLE TWO"
           }
         },
         {
           "partFourOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
             "tableOne" : "This is PART 4.1 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO",
             "tableThree" : "This is PART 4.1 --- TABLE THREE"
@@ -582,31 +513,24 @@
         },
         {
           "partFourTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 4.2 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO"
           }
         },
         {
           "partFiveOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.1 --- TABLE ONE",
             "tableTwo" : "This is PART 5.1 --- TABLE TWO"
           }
         },
         {
           "partFiveTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.2 --- TABLE ONE",
             "tableTwo" : "This is PART 5.2 --- TABLE TWO"
           }
         },
         {
           "partFiveThree" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 5.3 --- TABLE ONE"
           }
         }
@@ -614,19 +538,12 @@
       "fra" : [
         {
           "partOneOne" : {
-            "titleTableOne" : "<h3>Primary\u00B9 national statutes and regulations, and their legislative authorities, ministries, and departments</h3>",
-            "titleTableTwo" : "<h3>Complementary and other statutes and regulations, and additional authorities, ministries, and departments (i.e. national, subnational, non-governmental, etc.)</h3>",
             "tableOne" : "<ul><li><a href=\"https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006072665&amp;dateTexte=20180409\"><em>Public Health Code (Fr)</em></a> <em>Art. L5139-1, L5139-2,</em> and <em>L5139-3; Art. L5439-1, L5439-2, L5439-3, and L5439-4; Art. R5139-1</em> to <em>R5139-20</em>: <a href=\"http://ansm.sante.fr/L-ANSM/Une-agence-d-expertise/L-ANSM-agence-d-evaluation-d-expertise-et-de-decision/(offset)/0\">The French National Agency for Medicines and Health Products Safety</a>, Ministry of Solidarity and Health</li><li><a href=\"https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006072050\"><em>Labour Code</em></a> <em>(Articles R. 4421-1, R4421-4 and 4421-9): Ministry of Labour</em></li><li><a href=\"https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000022415024&amp;categorieLien=id\">Decree No. 2010-736</a> relative to the microorganisms and toxins: French National Agency for Medicines and Health Products Safety</li><li><a href=\"https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025837146&amp;dateTexte=&amp;categorieLien=id\">Order of 30 April 2012</a> fixing the list of microorganisms and toxins: French National Agency for Medicines and Health Products Safety</li><li><a href=\"https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023776935&amp;dateTexte=&amp;categorieLien%2520=%2520id\">Order of 17 March 2011</a> on skills and qualifications provided for in Article L. 5139-1 of the <em>Public Health Code</em>: French National Agency for Medicines and Health Products Safety</li><li><a href=\"https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000465273&amp;categorieLien=id\">Order of 16 July 2007</a> laying down the technical measures for prevention, in particular containment: Ministry of Labour</li><li><a href=\"https://www.legifrance.gouv.fr/eli/arrete/2017/12/27/MTRT1633568A/jo/texte\">Order of 27 December 2017</a> relative to the classification of biological agents and prevention measures: Ministry of Labour</li><li><a href=\"https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000027047902&amp;categorieLien=id\">Order of 11 June 2013 amending the Order of 23 January 2013</a> on the rules of good practice for guaranteeing biological safety and security: French National Agency for Medicines and Health Products Safety</li><li><a href=\"https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000713145&amp;categorieLien=id\">Decree No. 94-352</a> relative to the protection of workers against risks resulting from their exposure to biological agents and amending the <em>French Labour Code</em>: Ministry of Labour</li><li><a href=\"https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000018442415&categorieLien=id#JORFSCTA000018443009\">Decree No. 2008-244 of 7 March 2008</a> modifying the Labour Code on Biological Risk Prevention (Articles R. 4421-1 to R. 4427-5 of the Labour Code)</li><li><em>Public Health Code</em>: framework strengthened by <a href=\"https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000020879475&amp;categorieLien=id\"><em>Act No. 2009-879 of 21 July 2009, </em></a> <a href=\"https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000019215060\"><em>Ordinance No. 2008-717 of 17 July 2008</em></a> and <a href=\"https://www.legifrance.gouv.fr/eli/ordonnance/2013/12/19/AFSX1327872R/jo\"><em>Ordinance No. 2013-1183 of 19 December 2013</em></a>:</li><li><a href=\"https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006071307&amp;dateTexte=20180409\"><em>Defence Code</em></a>: Ministry of Defence</li></ul>",
             "tableTwo" : "<ul><li><a href=\"http://www.sgdsn.gouv.fr/missions/lutter-contre-la-proliferation/le-conseil-national-consultatif-pour-la-biosecurite-cncb/\">National Council for Biosafety</a> which is governed by the National Secretary of Defense (and reports directly to the prime minster) to advise public authorities, the scientific community and the public on security issues, benefits and the risks posed by advances in life science research</li><li><a href=\"http://www.sgdsn.gouv.fr/\">The General Secretariat for Defence and National Security</a> : ensuring the adaptation, consistency and continuity of the action of the State in the field of defense and, more recently, security</li><li><a href=\"http://www.hautconseildesbiotechnologies.fr/en/article/what-hcb-does\">High Council for Biotechnology</a> : delivers opinions on all biotechnology-related issues, including genetically modified organisms</li><li><a href=\"http://www.senat.fr/opecst/eng/index.html%2520\">The Parliamentary Office for Scientific and Technological Assessment</a> : to inform Parliament of scientific and technological options in order, specifically, to make its decisions clear</li><li><a href=\"https://www.anses.fr/en/content/presentation-anses\">French Agency for Food, Environmental and Occupational Health &amp; Safety</a> : undertakes monitoring, expert assessment, research and reference activities in a broad range of topics that encompass human health, animal health and well-being, and plant health</li></ul>"
           }
         },
         {
           "partOneTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
-            "titleTableFive" : "TITLE FIVE",
             "tableOne" : "This is PART 1.2 --- TABLE ONE",
             "tableTwo" : "This is PART 1.2 --- TABLE TWO",
             "tableThree" : "This is PART 1.2 --- TABLE THREE",
@@ -636,40 +553,29 @@
         },
         {
           "partOneThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.3 --- TABLE ONE",
             "tableTwo" : "This is PART 1.3 --- TABLE TWO"
           }
         },
         {
           "partOneFour" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.4 --- TABLE ONE",
             "tableTwo" : "This is PART 1.4 --- TABLE TWO"
           }
         },
         {
           "partOneFive" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 1.5 --- TABLE ONE"
           }
         },
         {
           "partTwoOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO"
           }
         },
         {
           "partTwoTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO",
             "tableThree" : "This is PART 2.1 --- TABLE THREE",
@@ -678,25 +584,18 @@
         },
         {
           "partTwoThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.3 --- TABLE ONE",
             "tableTwo" : "This is PART 2.3 --- TABLE TWO"
           }
         },
         {
           "partThreeOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 3.1 --- TABLE ONE",
             "tableTwo" : "This is PART 3.1 --- TABLE TWO"
           }
         },
         {
           "partFourOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
             "tableOne" : "This is PART 4.1 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO",
             "tableThree" : "This is PART 4.1 --- TABLE THREE"
@@ -704,31 +603,24 @@
         },
         {
           "partFourTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 4.2 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO"
           }
         },
         {
           "partFiveOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.1 --- TABLE ONE",
             "tableTwo" : "This is PART 5.1 --- TABLE TWO"
           }
         },
         {
           "partFiveTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.2 --- TABLE ONE",
             "tableTwo" : "This is PART 5.2 --- TABLE TWO"
           }
         },
         {
           "partFiveThree" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 5.3 --- TABLE ONE"
           }
         }
@@ -736,19 +628,12 @@
       "jpn" : [
         {
           "partOneOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.1 --- TABLE ONE",
             "tableTwo" : "This is PART 1.1 --- TABLE TWO"
           }
         },
         {
           "partOneTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
-            "titleTableFive" : "TITLE FIVE",
             "tableOne" : "This is PART 1.2 --- TABLE ONE",
             "tableTwo" : "This is PART 1.2 --- TABLE TWO",
             "tableThree" : "This is PART 1.2 --- TABLE THREE",
@@ -758,40 +643,29 @@
         },
         {
           "partOneThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.3 --- TABLE ONE",
             "tableTwo" : "This is PART 1.3 --- TABLE TWO"
           }
         },
         {
           "partOneFour" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.4 --- TABLE ONE",
             "tableTwo" : "This is PART 1.4 --- TABLE TWO"
           }
         },
         {
           "partOneFive" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 1.5 --- TABLE ONE"
           }
         },
         {
           "partTwoOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO"
           }
         },
         {
           "partTwoTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO",
             "tableThree" : "This is PART 2.1 --- TABLE THREE",
@@ -800,25 +674,18 @@
         },
         {
           "partTwoThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.3 --- TABLE ONE",
             "tableTwo" : "This is PART 2.3 --- TABLE TWO"
           }
         },
         {
           "partThreeOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 3.1 --- TABLE ONE",
             "tableTwo" : "This is PART 3.1 --- TABLE TWO"
           }
         },
         {
           "partFourOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
             "tableOne" : "This is PART 4.1 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO",
             "tableThree" : "This is PART 4.1 --- TABLE THREE"
@@ -826,31 +693,24 @@
         },
         {
           "partFourTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 4.2 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO"
           }
         },
         {
           "partFiveOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.1 --- TABLE ONE",
             "tableTwo" : "This is PART 5.1 --- TABLE TWO"
           }
         },
         {
           "partFiveTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.2 --- TABLE ONE",
             "tableTwo" : "This is PART 5.2 --- TABLE TWO"
           }
         },
         {
           "partFiveThree" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 5.3 --- TABLE ONE"
           }
         }
@@ -858,19 +718,12 @@
       "nld" : [
         {
           "partOneOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.1 --- TABLE ONE",
             "tableTwo" : "This is PART 1.1 --- TABLE TWO"
           }
         },
         {
           "partOneTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
-            "titleTableFive" : "TITLE FIVE",
             "tableOne" : "This is PART 1.2 --- TABLE ONE",
             "tableTwo" : "This is PART 1.2 --- TABLE TWO",
             "tableThree" : "This is PART 1.2 --- TABLE THREE",
@@ -880,40 +733,29 @@
         },
         {
           "partOneThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.3 --- TABLE ONE",
             "tableTwo" : "This is PART 1.3 --- TABLE TWO"
           }
         },
         {
           "partOneFour" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.4 --- TABLE ONE",
             "tableTwo" : "This is PART 1.4 --- TABLE TWO"
           }
         },
         {
           "partOneFive" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 1.5 --- TABLE ONE"
           }
         },
         {
           "partTwoOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO"
           }
         },
         {
           "partTwoTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO",
             "tableThree" : "This is PART 2.1 --- TABLE THREE",
@@ -922,25 +764,18 @@
         },
         {
           "partTwoThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.3 --- TABLE ONE",
             "tableTwo" : "This is PART 2.3 --- TABLE TWO"
           }
         },
         {
           "partThreeOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 3.1 --- TABLE ONE",
             "tableTwo" : "This is PART 3.1 --- TABLE TWO"
           }
         },
         {
           "partFourOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
             "tableOne" : "This is PART 4.1 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO",
             "tableThree" : "This is PART 4.1 --- TABLE THREE"
@@ -948,31 +783,24 @@
         },
         {
           "partFourTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 4.2 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO"
           }
         },
         {
           "partFiveOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.1 --- TABLE ONE",
             "tableTwo" : "This is PART 5.1 --- TABLE TWO"
           }
         },
         {
           "partFiveTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.2 --- TABLE ONE",
             "tableTwo" : "This is PART 5.2 --- TABLE TWO"
           }
         },
         {
           "partFiveThree" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 5.3 --- TABLE ONE"
           }
         }
@@ -980,19 +808,12 @@
       "sgp" : [
         {
           "partOneOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.1 --- TABLE ONE",
             "tableTwo" : "This is PART 1.1 --- TABLE TWO"
           }
         },
         {
           "partOneTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
-            "titleTableFive" : "TITLE FIVE",
             "tableOne" : "This is PART 1.2 --- TABLE ONE",
             "tableTwo" : "This is PART 1.2 --- TABLE TWO",
             "tableThree" : "This is PART 1.2 --- TABLE THREE",
@@ -1002,40 +823,29 @@
         },
         {
           "partOneThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.3 --- TABLE ONE",
             "tableTwo" : "This is PART 1.3 --- TABLE TWO"
           }
         },
         {
           "partOneFour" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.4 --- TABLE ONE",
             "tableTwo" : "This is PART 1.4 --- TABLE TWO"
           }
         },
         {
           "partOneFive" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 1.5 --- TABLE ONE"
           }
         },
         {
           "partTwoOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO"
           }
         },
         {
           "partTwoTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO",
             "tableThree" : "This is PART 2.1 --- TABLE THREE",
@@ -1044,25 +854,18 @@
         },
         {
           "partTwoThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.3 --- TABLE ONE",
             "tableTwo" : "This is PART 2.3 --- TABLE TWO"
           }
         },
         {
           "partThreeOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 3.1 --- TABLE ONE",
             "tableTwo" : "This is PART 3.1 --- TABLE TWO"
           }
         },
         {
           "partFourOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
             "tableOne" : "This is PART 4.1 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO",
             "tableThree" : "This is PART 4.1 --- TABLE THREE"
@@ -1070,31 +873,24 @@
         },
         {
           "partFourTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 4.2 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO"
           }
         },
         {
           "partFiveOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.1 --- TABLE ONE",
             "tableTwo" : "This is PART 5.1 --- TABLE TWO"
           }
         },
         {
           "partFiveTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.2 --- TABLE ONE",
             "tableTwo" : "This is PART 5.2 --- TABLE TWO"
           }
         },
         {
           "partFiveThree" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 5.3 --- TABLE ONE"
           }
         }
@@ -1102,19 +898,12 @@
       "uk" : [
         {
           "partOneOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.1 --- TABLE ONE",
             "tableTwo" : "This is PART 1.1 --- TABLE TWO"
           }
         },
         {
           "partOneTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
-            "titleTableFive" : "TITLE FIVE",
             "tableOne" : "This is PART 1.2 --- TABLE ONE",
             "tableTwo" : "This is PART 1.2 --- TABLE TWO",
             "tableThree" : "This is PART 1.2 --- TABLE THREE",
@@ -1124,40 +913,29 @@
         },
         {
           "partOneThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.3 --- TABLE ONE",
             "tableTwo" : "This is PART 1.3 --- TABLE TWO"
           }
         },
         {
           "partOneFour" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.4 --- TABLE ONE",
             "tableTwo" : "This is PART 1.4 --- TABLE TWO"
           }
         },
         {
           "partOneFive" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 1.5 --- TABLE ONE"
           }
         },
         {
           "partTwoOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO"
           }
         },
         {
           "partTwoTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO",
             "tableThree" : "This is PART 2.1 --- TABLE THREE",
@@ -1166,25 +944,18 @@
         },
         {
           "partTwoThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.3 --- TABLE ONE",
             "tableTwo" : "This is PART 2.3 --- TABLE TWO"
           }
         },
         {
           "partThreeOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 3.1 --- TABLE ONE",
             "tableTwo" : "This is PART 3.1 --- TABLE TWO"
           }
         },
         {
           "partFourOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
             "tableOne" : "This is PART 4.1 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO",
             "tableThree" : "This is PART 4.1 --- TABLE THREE"
@@ -1192,31 +963,24 @@
         },
         {
           "partFourTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 4.2 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO"
           }
         },
         {
           "partFiveOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.1 --- TABLE ONE",
             "tableTwo" : "This is PART 5.1 --- TABLE TWO"
           }
         },
         {
           "partFiveTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.2 --- TABLE ONE",
             "tableTwo" : "This is PART 5.2 --- TABLE TWO"
           }
         },
         {
           "partFiveThree" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 5.3 --- TABLE ONE"
           }
         }
@@ -1224,19 +988,12 @@
       "usa" : [
         {
           "partOneOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.1 --- TABLE ONE",
             "tableTwo" : "This is PART 1.1 --- TABLE TWO"
           }
         },
         {
           "partOneTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
-            "titleTableFive" : "TITLE FIVE",
             "tableOne" : "This is PART 1.2 --- TABLE ONE",
             "tableTwo" : "This is PART 1.2 --- TABLE TWO",
             "tableThree" : "This is PART 1.2 --- TABLE THREE",
@@ -1246,40 +1003,29 @@
         },
         {
           "partOneThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.3 --- TABLE ONE",
             "tableTwo" : "This is PART 1.3 --- TABLE TWO"
           }
         },
         {
           "partOneFour" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 1.4 --- TABLE ONE",
             "tableTwo" : "This is PART 1.4 --- TABLE TWO"
           }
         },
         {
           "partOneFive" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 1.5 --- TABLE ONE"
           }
         },
         {
           "partTwoOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO"
           }
         },
         {
           "partTwoTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
-            "titleTableFour" : "TITLE FOUR",
             "tableOne" : "This is PART 2.1 --- TABLE ONE",
             "tableTwo" : "This is PART 2.1 --- TABLE TWO",
             "tableThree" : "This is PART 2.1 --- TABLE THREE",
@@ -1288,25 +1034,18 @@
         },
         {
           "partTwoThree" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 2.3 --- TABLE ONE",
             "tableTwo" : "This is PART 2.3 --- TABLE TWO"
           }
         },
         {
           "partThreeOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 3.1 --- TABLE ONE",
             "tableTwo" : "This is PART 3.1 --- TABLE TWO"
           }
         },
         {
           "partFourOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
-            "titleTableThree" : "TITLE THREE",
             "tableOne" : "This is PART 4.1 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO",
             "tableThree" : "This is PART 4.1 --- TABLE THREE"
@@ -1314,31 +1053,24 @@
         },
         {
           "partFourTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 4.2 --- TABLE ONE",
             "tableTwo" : "This is PART 4.1 --- TABLE TWO"
           }
         },
         {
           "partFiveOne" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.1 --- TABLE ONE",
             "tableTwo" : "This is PART 5.1 --- TABLE TWO"
           }
         },
         {
           "partFiveTwo" : {
-            "titleTableOne" : "TITLE ONE",
-            "titleTableTwo" : "TITLE TWO",
             "tableOne" : "This is PART 5.2 --- TABLE ONE",
             "tableTwo" : "This is PART 5.2 --- TABLE TWO"
           }
         },
         {
           "partFiveThree" : {
-            "titleTableOne" : "TITLE ONE",
             "tableOne" : "This is PART 5.3 --- TABLE ONE"
           }
         }
@@ -1347,19 +1079,99 @@
   },
   {
     "fr" : {
+
+      "tableTitles": [
+        {
+          "partOne": {
+            "partOneOne": {
+              "tableTitleOne": "<h3>Lois et règlements nationaux principaux\u00B9, autorités réglementaires, ministères et organismes</h3>",
+              "tableTitleTwo": "<h3>Autres lois et règlements complémentaires, autres autorités réglementaires, ministères et organismes (nationaux, infranationaux, non gouvernementaux, etc.)</h3>"
+            },
+            "partOneTwo": {
+              "tableTitleOne": "<h3>Désignation des groupes de risque et des niveaux de biosécurité</h3>",
+              "tableTitleTwo": "<h3>Définition de la biosécurité</h3>",
+              "tableTitleThree": "<h3>Définition de la biosûreté</h3>",
+              "tableTitleFour": "<h3>Définition d’agent biologique, de micro-organisme, d’agent pathogène</h3>",
+              "tableTitleFive": "<h3>Définition de toxine</h3>"
+            },
+            "partOneThree": {
+              "tableTitleOne": "<h3>Quels sont l’objectif et la portée (le champ d’application) de la législation?</h3>",
+              "tableTitleTwo": "<h3>Quelles sont les activités visées?</h3>"
+            },
+            "partOneFour": {
+              "tableTitleOne": "<h3>Les agents pathogènes et toxines réglementés sont-ils fixés par une liste?</h3>",
+              "tableTitleTwo": "<h3>Mise à jour de la liste</h3>"
+            },
+            "partOneFive": {
+              "tableHeaderOne": "<h3>Normes et instruments de politique juridiquement non contraignants</h3>"
+            }
+          }
+        },
+        {
+          "partTwo": {
+            "partTwoOne": {
+              "tableTitleOne": "<h3>Processus de délivrance d’autorisations réglementaires et activités autorisées</h3>",
+              "tableTitleTwo": "<h3>Exigences / conditions / obligations pour obtenir une approbation réglementaire</h3>"
+            },
+            "partTwoTwo": {
+              "tableTitleOne": "<h3>Respecte la réglementation modèle des Nations Unies?\u00B9</h3>",
+              "tableTitleTwo": "<h3>Importation</h3>",
+              "tableTitleThree": "<h3>Exportation</h3>",
+              "tableTitleFour": "<h3>Transfert et expéditions internes</h3>"
+            },
+            "partTwoThree": {
+              "tableTitleOne": "<h3>Traitement administratif des notifications / rapports</h3>",
+              "tableTitleTwo": "<h3>Rapports disponibles (rapports annuels, rapports d’incident, etc.)</h3>"
+            }
+          }
+        },
+        {
+          "partThree": {
+            "partThreeOne": {
+              "tableTitleOne": "<h3>Exigences en matière d’évaluation des risques et détails</h3>",
+              "tableTitleTwo": "<h3>Rapports disponibles</h3>"
+            }
+          }
+        },
+        {
+          "partFour": {
+            "partFourOne": {
+              "tableTitleOne": "<h3>Promotion de la conformité</h3>",
+              "tableTitleTwo": "<h3>Surveillance et vérification de la conformité</h3>",
+              "tableTitleThree": "<h3>Application de la réglementation / sanctions</h3>"
+            },
+            "partFourTwo": {
+              "tableTitleOne": "<h3>Régime d’inspection</h3>",
+              "tableTitleTwo": "<h3>Rapports d’inspection disponibles</h3>"
+            }
+          }
+        },
+        {
+          "partFive": {
+            "partFiveOne": {
+              "tableTitleOne": "<h3>Fonctions et responsabilités de l’agent de biosécurité ou de l’agent responsable et qualifications qu’il doit posséder</h3>",
+              "tableTitleTwo": "<h3>Y a-t-il des exigences en matière de sûreté pour le personnel?</h3>"
+            },
+            "partFiveTwo": {
+              "tableTitleOne": "<h3>Exigences portant sur des éléments autres que la sécurité pour le personnel</h3>",
+              "tableTitleTwo": "<h3>Exigences en matière de formation et autres ressources à la disposition du personnel</h3>"
+            },
+            "partFiveThree": {
+              "tableTitleOne": "<h3>Initiatives de sensibilisation et de rayonnement (qui n’ont pas été saisies dans les pages qui précèdent)</h3>"
+            }
+          }
+        }
+      ],
+
       "aus" : [
         {
           "partOneOne" : {
-            "titleTableOne" : "FRENCH - TITLE ONE",
-            "titleTableTwo" : "FRENCH - TITLE TWO",
             "tableOne" : "FRENCH - This is PART 1.1 --- TABLE ONE",
             "tableTwo" : "FRENCH - This is PART 1.1 --- TABLE TWO"
           }
         },
         {
           "partOneTwo" : {
-            "titleTableOne" : "FRENCH - TITLE ONE",
-            "titleTableTwo" : "FRENCH - TITLE TWO",
             "tableOne" : "FRENCH - This is PART 1.2 --- TABLE ONE",
             "tableTwo" : "FRENCH - This is PART 1.2 --- TABLE TWO"
           }

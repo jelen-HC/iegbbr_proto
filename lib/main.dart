@@ -11,7 +11,7 @@ import 'package:provider/provider.dart';
 void main() => runApp(ChangeNotifierProvider(
   create: (context) => MemberNotifier(),
   child:   MaterialApp(
-    initialRoute: '/home', //temporary - used for current stage of dev to load to this screen first
+    initialRoute: '/',
     routes: {
       '/': (context) => Loading(),
       '/home': (context) => Home(),
@@ -25,4 +25,5 @@ void main() => runApp(ChangeNotifierProvider(
     ),
   ),
 ));
+
 

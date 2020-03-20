@@ -56,6 +56,8 @@ final whoTab = Tab(text: 'WHO');
 /// Provider Notifier Class for the members/filter - (Controls Global State)
 class MemberNotifier with ChangeNotifier {
 
+  List memberData;
+
   /// Boolean values for the filter widget
   bool ausValue = true;
   bool canValue = true;
@@ -114,5 +116,4 @@ class MemberNotifier with ChangeNotifier {
     _memberLength = newLength;
     notifyListeners();
   }
-
 }
